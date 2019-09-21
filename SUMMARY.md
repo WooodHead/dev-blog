@@ -2,11 +2,11 @@
 
 * [概述](README.md)
 * [微信小程序开发](http-weixin.wooodhead.com/README.md)
-  * [开源项目列表](http://weixin.wooodhead.com)
   * [掘金文章列表-1](http-weixin.wooodhead.com/juejin-1.md)
   * [掘金文章列表-2](http-weixin.wooodhead.com/juejin-2.md)
   * [v2ex 发帖汇总](http-weixin.wooodhead.com/v2ex.md)
   * [Github 资源汇总](http-weixin.wooodhead.com/github.md)
+  * [Github开源项目列表](http://weixin.wooodhead.com)
   * [小程序书籍](http-weixin.wooodhead.com/books.md)
   * [入门教程](http-weixin.wooodhead.com/tutorial.md)
   * [常见的坑](http-weixin.wooodhead.com/keng.md)
