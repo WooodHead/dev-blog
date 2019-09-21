@@ -2,7 +2,7 @@
 
 * [概述](README.md)
 * [微信小程序开发](http-weixin.wooodhead.com/README.md)
-  * [开源项目列表](http-weixin.wooodhead.com/http-weixin.wooodhead.com.md)
+  * [开源项目列表](http://weixin.wooodhead.com)
   * [掘金文章列表-1](http-weixin.wooodhead.com/juejin-1.md)
   * [掘金文章列表-2](http-weixin.wooodhead.com/juejin-2.md)
   * [v2ex 发帖汇总](http-weixin.wooodhead.com/v2ex.md)
