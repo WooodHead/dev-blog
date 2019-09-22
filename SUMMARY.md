@@ -2,6 +2,8 @@
 
 - [木头头目的开发笔记](README.md)
 - [微信小程序开发](mina/README.md)
+  - [概述](mina/introduction.md)
+  - [知乎文章列表-1](mina/zhihu-1.md)
   - [知乎文章列表-1](mina/zhihu-1.md)
   - [知乎文章列表-2](mina/zhihu-2.md)
   - [知乎文章列表-3](mina/zhihu-3.md)
