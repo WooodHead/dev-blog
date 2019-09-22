@@ -2,6 +2,7 @@
 
 - [木头头目的开发笔记](README.md)
 - [微信小程序开发](mina/README.md)
+
   - [概述](mina/introduction.md)
   - [知乎文章列表-1](mina/zhihu-1.md)
   - [知乎文章列表-1](mina/zhihu-1.md)
@@ -12,7 +13,6 @@
   - [掘金文章列表-2](mina/juejin-2.md)
   - [v2ex 发帖汇总](mina/v2ex.md)
   - [Github 资源汇总](mina/github.md)
-  - [Github 开源项目列表](http://weixin.wooodhead.com)
   - [小程序书籍](mina/books.md)
   - [入门教程](mina/tutorial.md)
   - [常见的坑](mina/keng.md)
@@ -22,4 +22,5 @@
   - [隐藏滚动条问题](mina/scrollbar.md)
   - [微信群](mina/qrcode.md)
 
+- [TOP500小程序开源项目](http://weixin.wooodhead.com)
 - [Gitbook](gitbook/README.md)
