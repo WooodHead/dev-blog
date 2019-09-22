@@ -1,0 +1,22 @@
+{
+  "name": "dev-notes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "gitbook serve",
+    "dev": "gitbook serve",
+    "build": "gitbook build",
+    "deploy": "./deploy.sh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WooodHead/dev-notes.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WooodHead/dev-notes/issues"
+  },
+  "homepage": "https://github.com/WooodHead/dev-notes#readme"
+}
