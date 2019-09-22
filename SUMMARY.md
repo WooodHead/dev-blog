@@ -5,7 +5,7 @@
   * [知乎文章列表-1](mina/zhihu-1.md)
   * [知乎文章列表-2](mina/zhihu-2.md)
   * [知乎文章列表-3](mina/zhihu-3.md)
-  <!-- * [知乎文章列表-4](mina/zhihu-4.md) -->
+  * [知乎文章列表-4](mina/zhihu-4.md)
   * [掘金文章列表-1](mina/juejin-1.md)
   * [掘金文章列表-2](mina/juejin-2.md)
   * [v2ex 发帖汇总](mina/v2ex.md)
