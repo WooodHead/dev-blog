@@ -5,7 +5,6 @@
 
   - [概述](mina/introduction.md)
   - [知乎文章列表-1](mina/zhihu-1.md)
-  - [知乎文章列表-1](mina/zhihu-1.md)
   - [知乎文章列表-2](mina/zhihu-2.md)
   - [知乎文章列表-3](mina/zhihu-3.md)
   - [知乎文章列表-4](mina/zhihu-4.md)
