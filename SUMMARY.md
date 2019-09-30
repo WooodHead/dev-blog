@@ -21,6 +21,6 @@
   - [隐藏滚动条问题](mina/scrollbar.md)
   - [微信群](mina/qrcode.md)
 
-- [TOP500小程序开源项目](http://weixin.wooodhead.com)
+- [TOP100小程序开源项目](http://weixin.wooodhead.com)
 - [Gitbook](gitbook/README.md)
 - [Webpack](webpack/README.md)
