@@ -1,6 +1,8 @@
 # Table of contents
 
 - [木头头目的开发笔记](README.md)
+- [TOP100小程序开源项目](http://weixin.wooodhead.com)
+
 - [微信小程序开发](mina/README.md)
 
   - [概述](mina/introduction.md)
@@ -21,6 +23,3 @@
   - [隐藏滚动条问题](mina/scrollbar.md)
   - [微信群](mina/qrcode.md)
 
-- [TOP100小程序开源项目](http://weixin.wooodhead.com)
-- [Gitbook](gitbook/README.md)
-- [Webpack](webpack/README.md)
